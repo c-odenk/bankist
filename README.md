@@ -1,6 +1,6 @@
 # BANKIST | The modern banking experience.
 <br>
-Landingpage für eine fiktive Digital-Bank. Dieses Projekt ist im Rahmen eines Onlinekurses zum Thema JavaScript Entwicklung entstanden. Im Fokus stand bei diesem Projekt insbesondere das Event-handling und die Intersection Obserer API.
+Landingpage für eine fiktive Digital-Bank. Dieses Projekt ist im Rahmen eines Onlinekurses zum Thema JavaScript Entwicklung entstanden. Im Fokus stand bei diesem Projekt insbesondere das Event-handling und die Intersection Observer API.
 <br>
 <br>
 <br>
