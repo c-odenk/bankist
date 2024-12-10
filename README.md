@@ -12,3 +12,5 @@ Landingpage für eine fiktive Digital-Bank. Dieses Projekt ist im Rahmen eines O
 ### Screenshot der Landingpage:
 
 ![Screenshot Bankis Landing Page](https://github.com/user-attachments/assets/241717fc-06d9-4d65-83e6-d56256a9e212)
+
+** Dieses Projekt ist im Rahmen eines Onlinekurses zum Thema Frontend Entwicklung entstanden. Es handelt sich hierbei nur um eine statische, nicht-responsive Landingpage.
