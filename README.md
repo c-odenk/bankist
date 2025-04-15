@@ -12,7 +12,7 @@ Im Fokus standen insbesondere das Event-Handling und der Einsatz der Intersectio
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Screenshot - 🖼️  Landingpage:
+### Screenshot der Landingpage:
 
 ![Screenshot Bankis Landing Page (1)](https://github.com/user-attachments/assets/1d763299-37af-44f6-8666-cdd1525da5e0)
 
